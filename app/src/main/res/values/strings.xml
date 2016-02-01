@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TGCcaddy</string>
+    <string name="button_text">Get Club</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="yardage">Yardage to Pin</string>
+    <string name="yardage_hint">Enter yardage to the pin</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_hint">Enter the strength of the wind</string>
+    <string name="wind_direction">Wind direction</string>
+    <string name="wind_direction_cross_right">Straight Across from the right</string>
+    <string name="wind_direction_cross_left">Straight Across from the left</string>
+    <string name="wind_direction_into">Straight into</string>
+    <string name="wind_direction_with">Straight with</string>
+    <string name="wind_direction_diagonal_left_into">Diagonal into from the left</string>
+    <string name="wind_direction_diagonal_right_into">Diagonal into from the right</string>
+    <string name="wind_direction_diagonal_left_with">Diagonal with from the left</string>
+    <string name="wind_direction_diagonal_right_with">Diagonal with from the right</string>
+    <string name="elevation">Elevation</string>
+    <string name="wind_direction_prompt">Choose a wind direction</string>
+    <string-array name="wind_selection">
+        <item>- - - - -Select Wind Direction- - - - -</item>
+        <item>Straight into</item>
+        <item>Straight with</item>
+        <item>Straight Across from the right</item>
+        <item>Straight Across from the left</item>
+        <item>Diagonal into from the left</item>
+        <item>Diagonal into from the right</item>
+        <item>Diagonal with from the left</item>
+        <item>Diagonal with from the right</item>
+    </string-array>
+    <string name="elevation_hint">Enter the elevation change</string>
+    <string name="lie">Lie</string>
+    <string name="lie_hint">Enter Highest Lie Percentage</string>
+</resources>

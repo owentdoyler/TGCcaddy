@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tgccaddy.android.owendoyle.com.tgccaddy.test">
+
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="22" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="tgccaddy.android.owendoyle.com.tgccaddy"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for tgccaddy.android.owendoyle.com.tgccaddy"/>
+</manifest>
